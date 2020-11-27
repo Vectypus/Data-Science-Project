@@ -14,7 +14,7 @@ Le dataset devra de type tabulaire (genre CSV). Vous utiliserez un outil adéqua
 
  
 
-Par exemple si vous décidez de choisir ce dataset : https://www.kaggle.com/kemical/kickstarter-projects
+Par exemple si vous décidez de choisir ce dataset : [https://www.kaggle.com/kemical/kickstarter-projects](https://www.kaggle.com/kemical/kickstarter-projects)
 
 vous pourrez imaginer la problématique "quels sont les facteurs qui influent la réussite ou non d'un projet kickstarte"
 
@@ -23,17 +23,17 @@ vous pourrez imaginer la problématique "quels sont les facteurs qui influent la
 Vous pouvez prendre les datasets suivants :
  
 
-- Etudier les indicateurs de développement des pays dans le monde   
+- [Etudier les indicateurs de développement des pays dans le monde](https://www.kaggle.com/worldbank/world-development-indicators)  
 
-- Etudier un dataset contenant les levées de fonds collaboratives kickstaters (dataset supplémentaire
+- Etudier un dataset contenant les levées [de fonds collaboratives kickstaters](https://www.kaggle.com/kemical/kickstarter-projects) ([dataset supplémentaire](https://www.kaggle.com/codename007/funding-successful-projects))
 
-- Donnée nutritionnelles.  Idées : Elaborer une liste de produits sains et bons pour l'environnement (sans huile de palme qui engendre la destruction d'écosystèmes) par exemple.
+- [Donnée nutritionnelles](https://www.kaggle.com/openfoodfacts/world-food-facts/version/5).  Idées : Elaborer une liste de produits sains et bons pour l'environnement (sans huile de palme qui engendre la destruction d'écosystèmes) par exemple.
  
 
-- Données sur les accidents de la route en grande bretagne
+- [Données sur les accidents de la route en grande bretagne](https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales)
  
 
-- Données financière du New york stock exchange. Pour ce projet vous pourrez faire un peu de machine learning et tenter de prédire les prix à l'aide de régression (plus difficile)
+- [Données financière du New york stock exchange](https://www.kaggle.com/dgawlik/nyse). Pour ce projet vous pourrez faire un peu de machine learning et tenter de prédire les prix à l'aide de régression (plus difficile)
  
 
 Ou choisir vous même un dataset par ici :
