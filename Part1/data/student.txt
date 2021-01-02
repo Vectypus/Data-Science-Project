@@ -32,11 +32,12 @@ Attributes for both student-mat.csv (Math course) and student-por.csv (Portugues
 
 12 guardian - student's guardian (nominal: 'mother', 'father' or 'other')
 
-13 traveltime - home to school travel time (numeric: 1 - 1 hour)
+13 traveltime - home to school travel time (numeric: 1 - 10 hour)
 
 14 studytime - weekly study time (numeric: 1 - 10 hours)
 
-15 failures - number of past class failures (numeric: n if 1
+15 failures - number of past class failures (numeric: n if 1)
+
 16 schoolsup - extra educational support (binary: yes or no)
 
 17 famsup - family educational support (binary: yes or no)
